@@ -1,0 +1,11 @@
+{
+  "open github": {
+    "type": "url",
+    "target": "https://github.com"
+  },
+  "who created you": {
+    "type": "speech",
+    "target": "I was created by the person named Gokul."
+
+  }
+}
